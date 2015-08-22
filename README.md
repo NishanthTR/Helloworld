@@ -1,4 +1,4 @@
 # Helloworld
-My first repository on GitHub
+My first repository on GitHub.
 I love to play cricket.
-My favorite player is Gautam Gambhir
+My favorite player is Gautam Gambhir.
